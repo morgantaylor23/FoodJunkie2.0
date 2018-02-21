@@ -1,2 +1,2 @@
-# FoodJunkie2.0
-Continuation of FoodJunkie
+# FoodJunkie
+Web app for finding restaurants.
