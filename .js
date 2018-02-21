@@ -4,6 +4,7 @@ var restaurants = [
 		"name": "McDonalds",
 		"meals": ["breakfast", "lunch", "dinner"],
 		"type": ["fast food"]
+   //lol
     },
     {
 		"price": 1,
